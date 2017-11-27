@@ -24,7 +24,7 @@ My research mainly focuses on Evolutionary Computation (EC) and its Applications
 ### Referred Journal Publications
 1. **Peng Yang**, Ke Tang and Xin Yao. Turning High-dimensional Optimization into Computationally Expensive Optimization. *IEEE Transactions on Evolutionary Computation*, DOI: 10.1109/TEVC. 2017.2672689, in press.
 2. Jinhong Zhong, **Peng Yang**, Ke Tang. A Quality-Sensitive Method for Learning from Crowds. *IEEE Transactions on Knowledge and Data Engineering*, Vol. 29, Issue 12, pp. 2643-2654, 2017.
-3. **Peng Yang**, Ke Tang and Xiaofen Lu. Improving Estimation of Distribution Algorithm on Multi- modal Problems by Detecting Promising Areas. *IEEE Transactions on Cybernetics*, Vol. 45, Issue 8, pp. 1438-1449, 2015.
+3. **Peng Yang**, Ke Tang and Xiaofen Lu. Improving Estimation of Distribution Algorithm on Multi-modal Problems by Detecting Promising Areas. *IEEE Transactions on Cybernetics*, Vol. 45, Issue 8, pp. 1438-1449, 2015.
 4. **Peng Yang**, Ke Tang, Jose A. Lozano and Xianbin Cao. Path Planning for Single Unmanned Aerial Vehicle by Separately Evolving Waypoints. *IEEE Transactions on Robotics*, Vol. 31, Issue 5, pp. 1130-1146, 2015
 5. Ke Tang, **Peng Yang** and Xin Yao. Negatively Correlated Search. *IEEE Journal on Selected Areas in Communications*, Vol. 34, Issue 3, pp. 1-9, March 2016. 
 
@@ -36,7 +36,19 @@ My research mainly focuses on Evolutionary Computation (EC) and its Applications
 
 ---
 
-## Typography
+## Awards
+
+* Special Prize of Presidential Scholarship of Chinese Academy of Sciences, 2017
+* Excellent Graduate Student of Anhui Province, 2017
+* Excellent Graduate Student of University of Science and Technology of China, 2017
+* Guorui Scholarship, 2016
+* IEEE Computational Intelligence Society Outstanding Student Paper Travel Grants, 2016
+* Microsoft Research Asia Fellowship (Nomination Award), 2015
+* USTC-Institute of Advanced Manufacturing Technology Scholarship, 2015
+* IEEE Computational Intelligence Society Graduate Student Research Grants, 2015
+* National Scholarship for Graduate Students, 2014
+
+
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
