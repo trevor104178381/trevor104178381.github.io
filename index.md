@@ -1,8 +1,12 @@
 ---
+layout: default
+
+---
+
 **Peng** **Yang** @ **Huawei**
 
 ---
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src=pengyang.jpg">
 
 # Peng Yang (杨鹏)
 
