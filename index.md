@@ -2,6 +2,8 @@
 **Peng** **Yang** @ **Huawei**
 
 ---
+<img class="profile-picture" src="sherlock.jpg">
+
 # Peng Yang (杨鹏)
 
 Ph.D
