@@ -2,10 +2,14 @@
 **Peng** **Yang** @ **Huawei**
 
 ---
-#Peng Yang (杨鹏)
-Ph.D.
+# Peng Yang (杨鹏)
+
+Ph.D
+
 [Curriculum Vitae]()
+
 Email: trevor@mail.ustc.edu.cn
+
 Address: Huawei Technologies CO., LTD., Hangzhou, China.
 
 
