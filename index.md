@@ -2,14 +2,17 @@
 **Peng** **Yang** @ **Huawei**
 
 ---
-**Peng Yang 杨鹏**
+#Peng Yang (杨鹏)
+Ph.D.
+[Curriculum Vitae]()
 Email: trevor@mail.ustc.edu.cn
+Address: Huawei Technologies CO., LTD., Hangzhou, China.
 
 
 ---
 ## Brief CV
 
-I am a senior engineer at the IT Algorithm Department of the Huawei Technologies CO., LTD., Hangzhou, China. Before that, I received the Bachelor Degree and Ph.D Degree (Supervisors: Prof. Xin Yao and Prof. Ke Tang) in Computer Science from University of Science and Technology of China at 2012 and 2017, respectively.
+I am a senior engineer at the IT Algorithm Department of Huawei Technologies CO., LTD., China. Before that, I received the Bachelor Degree and Ph.D Degree (Supervisors: Prof. Xin Yao and Prof. Ke Tang) in Computer Science from University of Science and Technology of China at 2012 and 2017, respectively.
 
 ### Experience
 * 2017.7 - present: **Senior Engineer**, IT Algorithm Department, Huawei Technologies CO., LTD., China
