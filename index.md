@@ -12,7 +12,7 @@ Ph.D
 
 Email: trevor@mail.ustc.edu.cn | yangpeng64@huawei.com
 
-Address: Huawei Technologies CO., LTD., Hangzhou, China.
+Office: Huawei Technologies CO., LTD., Hangzhou, China.
 
 
 ---
