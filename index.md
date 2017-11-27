@@ -35,7 +35,7 @@ My research mainly focuses on Evolutionary Computation (EC) and its Applications
 
 ## Publications
 ### Referred Journal Publications
-1. $\textit{fdsaf}Peng Yang, Ke Tang and Xin Yao. Turning High-dimensional Optimization into Computationally Expensive Optimization. **IEEE Transactions on Evolutionary Computation**, DOI: 10.1109/TEVC. 2017.2672689, in press.
+1. $\textit{fdsaf}$Peng Yang, Ke Tang and Xin Yao. Turning High-dimensional Optimization into Computationally Expensive Optimization. **IEEE Transactions on Evolutionary Computation**, DOI: 10.1109/TEVC. 2017.2672689, in press.
 2. Jinhong Zhong, **Peng Yang**, Ke Tang. A Quality-Sensitive Method for Learning from Crowds. **IEEE Transactions on Knowledge and Data Engineering**, Vol. 29, Issue 12, pp. 2643-2654, 2017.
 3. **Peng Yang**, Ke Tang and Xiaofen Lu. Improving Estimation of Distribution Algorithm on Multi-modal Problems by Detecting Promising Areas. **IEEE Transactions on Cybernetics**, Vol. 45, Issue 8, pp. 1438-1449, 2015.
 4. **Peng Yang**, Ke Tang, Jose A. Lozano and Xianbin Cao. Path Planning for Single Unmanned Aerial Vehicle by Separately Evolving Waypoints. **IEEE Transactions on Robotics**, Vol. 31, Issue 5, pp. 1130-1146, 2015
@@ -78,4 +78,5 @@ My research mainly focuses on Evolutionary Computation (EC) and its Applications
 * The 7th IEEE Symposium Series on Computational Intelligence (SSCI’16)
 * The 19th World Multi-Conference on Systemics, Cybernetics And Informatics (WMSCI’15)
 
-
+---
+\hline The End
