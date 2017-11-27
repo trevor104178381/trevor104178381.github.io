@@ -1,12 +1,25 @@
 ---
-layout: default
----
-
-## About Me
+**Peng Yang @ Huawei**
+___
 
 <img class="profile-picture" src="sherlock.jpg">
 
+---
+## Correspondence
+Email: trevor@mail.ustc.edu.cn
+
+
+---
+## Brief CV
+
 I am a senior engineer at the IT Algorithm Department of the Huawei Technologies CO., LTD., Hangzhou, China.
+
+### Experience
+* 2017.7 - present: Senior Engineer, IT Algorithm Department, Huawei Technologies CO., LTD., China
+* 2012.9 - 2017.6: Research Assistant, USTC-Birmingham Joint Research Institute in Intelligent Computation and Its Applications (UBRI), University of Science and Technology of China, China
+* 2015.10.4 - 2015.10.24: Visiting Student, National Institute of Informatics, Japan
+* 2014.7 - 2015.1: Visiting Student, The Centre of Excellence for Research in Computational Intelligence and Applications (CERCIA), University of Birmingham, U.K.
+* 2013.11 - 2014.5: Visiting Student, The Intelligent Systems Group, University of Basque Country, Spain
 
 ---
 
@@ -48,27 +61,21 @@ My research mainly focuses on Evolutionary Computation (EC) and its Applications
 * IEEE Computational Intelligence Society Graduate Student Research Grants, 2015
 * National Scholarship for Graduate Students, 2014
 
-
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
 ---
 
-Here is a blockquote
+## Professonal Services
 
-> To a great mind, nothing is little
+**Journal Reviewer**
+* IEEE Transactions on Evolutionary Computation
+* IEEE Transactions on Industrial Electronics
+* Information Sciences
+* Memetic Computing
+* Natural Computing
+* Swarm and Evolutionary Computation
+* Journal of Systemics, Cybernetics, and Informatics (JSCI)
 
-## References
+**Conference PC member**
+* The 7th IEEE Symposium Series on Computational Intelligence (SSCI’16)
+* The 19th World Multi-Conference on Systemics, Cybernetics And Informatics (WMSCI’15)
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
