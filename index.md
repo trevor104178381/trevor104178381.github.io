@@ -6,7 +6,7 @@ layout: default
 **Peng** **Yang** @ **Huawei**
 
 ---
-<img class="profile-picture" src=pengyang.jpg">
+<img class="profile-picture" src="pengyang.jpg">
 
 # Peng Yang (杨鹏)
 
