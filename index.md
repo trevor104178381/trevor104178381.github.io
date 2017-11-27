@@ -10,7 +10,7 @@ Ph.D
 
 [Curriculum Vitae](PengYangCV.pdf)
 
-Email: trevor@mail.ustc.edu.cn
+Email: trevor@mail.ustc.edu.cn | yangpeng64@huawei.com
 
 Address: Huawei Technologies CO., LTD., Hangzhou, China.
 
