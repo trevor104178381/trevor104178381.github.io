@@ -2,7 +2,8 @@
 **Peng** **Yang** @ **Huawei**
 
 ---
-<img class="profile-picture" src="sherlock.jpg">   Email: trevor@mail.ustc.edu.cn
+**Peng Yang 杨鹏**
+Email: trevor@mail.ustc.edu.cn
 
 
 ---
