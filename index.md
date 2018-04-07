@@ -10,18 +10,19 @@ Ph.D
 
 [Curriculum Vitae](PengYangCV.pdf)
 
-Email: trevor@mail.ustc.edu.cn, yangpeng64@huawei.com
+Email: yangp@sustc.edu.cn; trevor@mail.ustc.edu.cn
 
-Office: Huawei Technologies CO., LTD., Hangzhou, China.
+Office: Room 913, Nanshan ipark A7 building, Nanshan district, Shenzhen, China.
 
 
 ---
 ## Brief CV
 
-I am a senior engineer at the IT Algorithm Department of Huawei Technologies CO., LTD., China. Before that, I received the Bachelor Degree and Ph.D Degree (Supervisors: Prof. Xin Yao and Prof. Ke Tang) in Computer Science from University of Science and Technology of China at 2012 and 2017, respectively.
+I am a Research Assistant Professor at the Department of Computer Science and Engineering, Southern University of Science and Technology. 
 
 ### Experience
-* 2017.7 - present: **Senior Engineer**, IT Algorithm Department, Huawei Technologies CO., LTD., China
+* 2018.2 - present: **Research Assistant Professor**, Department of Computer Science and Engineering, Southern University of Science and Technology
+* 2017.7 - 2018.01: **Senior Engineer**, IT Algorithm Department, Huawei Technologies CO., LTD., China
 * 2012.9 - 2017.6: **Research Assistant**, USTC-Birmingham Joint Research Institute in Intelligent Computation and Its Applications (UBRI), University of Science and Technology of China, China
 * 2015.10.4 - 2015.10.24: **Visiting Student**, National Institute of Informatics, Japan
 * 2014.7 - 2015.1: **Visiting Student**, The Centre of Excellence for Research in Computational Intelligence and Applications (CERCIA), University of Birmingham, U.K.
@@ -31,17 +32,13 @@ I am a senior engineer at the IT Algorithm Department of Huawei Technologies CO.
 
 ## Research Interest
 
-My research mainly focuses on Evolutionary Computation (EC) and its Applications. As one of the main complementary techniques, EC is widely acknowledged as a family of powerful tools for non-differentiable complex optimization problems that mathematical methods or gradient based approaches are ill-equiped to deal with. Currently, I am particularly intersted in EC-based approaches on:
-
-1. Large-scale optimization problems
-2. Multi-modal optimization problems
-3. QoS in cloud computing
+My research mainly focuses on Evolutionary Computation (EC) and Intelligent Logistics. 
 
 ---
 
 ## Publications
 ### Referred Journal Publications
-1. *Peng Yang*, Ke Tang and Xin Yao. Turning High-dimensional Optimization into Computationally Expensive Optimization. **IEEE Transactions on Evolutionary Computation**, DOI: 10.1109/TEVC.2017.2672689, in press.
+1. *Peng Yang*, Ke Tang and Xin Yao. Turning High-dimensional Optimization into Computationally Expensive Optimization. **IEEE Transactions on Evolutionary Computation**, Vol. 22, Issue 1, pp. 143-156, 2018. 
 2. Jinhong Zhong, *Peng Yang*, Ke Tang. A Quality-Sensitive Method for Learning from Crowds. **IEEE Transactions on Knowledge and Data Engineering**, Vol. 29, Issue 12, pp. 2643-2654, 2017.
 3. *Peng Yang*, Ke Tang and Xiaofen Lu. Improving Estimation of Distribution Algorithm on Multi-modal Problems by Detecting Promising Areas. **IEEE Transactions on Cybernetics**, Vol. 45, Issue 8, pp. 1438-1449, 2015.
 4. *Peng Yang*, Ke Tang, Jose A. Lozano and Xianbin Cao. Path Planning for Single Unmanned Aerial Vehicle by Separately Evolving Waypoints. **IEEE Transactions on Robotics**, Vol. 31, Issue 5, pp. 1130-1146, 2015
@@ -81,8 +78,9 @@ My research mainly focuses on Evolutionary Computation (EC) and its Applications
 * Journal of Systemics, Cybernetics, and Informatics (JSCI)
 
 **Conference PC member**
-* The 7th IEEE Symposium Series on Computational Intelligence (SSCI’16)
-* The 19th World Multi-Conference on Systemics, Cybernetics And Informatics (WMSCI’15)
+* The International Joint Conferences on Artificial Intelligence (IJCAI’18)
+* The IEEE Symposium Series on Computational Intelligence (SSCI’16)
+* The World Multi-Conference on Systemics, Cybernetics And Informatics (WMSCI’15, WMSCI'18)
 
 ---
 The End
