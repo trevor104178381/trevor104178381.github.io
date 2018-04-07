@@ -10,17 +10,17 @@ Ph.D
 
 [Curriculum Vitae](PengYangCV.pdf)
 
-Email: yangp@sustc.edu.cn; trevor@mail.ustc.edu.cn
+Email: yangp@sustc.edu.cn
 
 Office: Room 913, Nanshan ipark A7 building, Nanshan district, Shenzhen, China.
 
 
 ---
-## Brief CV
+## Educational Experience
+* 2012.9 - 2017.6: **Ph.D Degree**, Department of Computer Science and Technology, University of Science and Technology of China, China
+* 2008.9 - 2012.6: **B.Eng Degree**, Department of Computer Science and Technology, University of Science and Technology of China, China
 
-I am a Research Assistant Professor at the Department of Computer Science and Engineering, Southern University of Science and Technology. 
-
-### Experience
+## Research Experience
 * 2018.2 - present: **Research Assistant Professor**, Department of Computer Science and Engineering, Southern University of Science and Technology
 * 2017.7 - 2018.01: **Senior Engineer**, IT Algorithm Department, Huawei Technologies CO., LTD., China
 * 2012.9 - 2017.6: **Research Assistant**, USTC-Birmingham Joint Research Institute in Intelligent Computation and Its Applications (UBRI), University of Science and Technology of China, China
