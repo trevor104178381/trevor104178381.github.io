@@ -10,10 +10,15 @@ Ph.D
 
 [Curriculum Vitae](PengYangCV.pdf)
 
-Email: yangp@sustc.edu.cn
+Email: yangp@sustech.edu.cn
 
 Office: Room 913, Nanshan ipark A7 building, Nanshan district, Shenzhen, China.
 
+---
+
+## Research Interest
+
+My research mainly focuses on Distributed and Interactive Evolutionary Computation and its applications. 
 
 ---
 
@@ -35,30 +40,31 @@ Office: Room 913, Nanshan ipark A7 building, Nanshan district, Shenzhen, China.
 
 ---
 
-## Research Interest
-
-My research mainly focuses on Evolutionary Computation (EC) and Intelligent Logistics. 
-
----
-
 ## Publications
 ### Referred Journal Publications
-1. *Peng Yang*, Ke Tang and Xin Yao. Turning High-dimensional Optimization into Computationally Expensive Optimization. **IEEE Transactions on Evolutionary Computation**, Vol. 22, Issue 1, pp. 143-156, 2018. 
-2. Jinhong Zhong, *Peng Yang*, Ke Tang. A Quality-Sensitive Method for Learning from Crowds. **IEEE Transactions on Knowledge and Data Engineering**, Vol. 29, Issue 12, pp. 2643-2654, 2017.
-3. *Peng Yang*, Ke Tang and Xiaofen Lu. Improving Estimation of Distribution Algorithm on Multi-modal Problems by Detecting Promising Areas. **IEEE Transactions on Cybernetics**, Vol. 45, Issue 8, pp. 1438-1449, 2015.
-4. *Peng Yang*, Ke Tang, Jose A. Lozano and Xianbin Cao. Path Planning for Single Unmanned Aerial Vehicle by Separately Evolving Waypoints. **IEEE Transactions on Robotics**, Vol. 31, Issue 5, pp. 1130-1146, 2015
-5. Ke Tang, *Peng Yang* and Xin Yao. Negatively Correlated Search. **IEEE Journal on Selected Areas in Communications**, Vol. 34, Issue 3, pp. 1-9, March 2016. 
+1. Dongbin Jiao, *Peng Yang*, Liqun Fu, Liangjun Ke, and Ke Tang. Optimal Energy-Delay Scheduling for Energy Harvesting WSNs with Interference Channel via Negatively Correlated Search. **IEEE Internet of Things Journal**, Vol. 7, Issue 3, pp. 1690-1703, 2020.
+2. *Peng Yang*, Ke Tang and Xin Yao. A Parallel Divide-and-Conquer based Evolutionary Algorithm for Large-scale Optimization. **IEEE Access**, vol. 7, pp. 163105-163118, 2019.
+3. *Peng Yang*, Ke Tang and Xin Yao. Turning High-dimensional Optimization into Computationally Expensive Optimization. **IEEE Transactions on Evolutionary Computation**, Vol. 22, Issue 1, pp. 143-156, 2018. 
+4. Jinhong Zhong, *Peng Yang*, Ke Tang. A Quality-Sensitive Method for Learning from Crowds. **IEEE Transactions on Knowledge and Data Engineering**, Vol. 29, Issue 12, pp. 2643-2654, 2017.
+5. *Peng Yang*, Ke Tang and Xiaofen Lu. Improving Estimation of Distribution Algorithm on Multi-modal Problems by Detecting Promising Areas. **IEEE Transactions on Cybernetics**, Vol. 45, Issue 8, pp. 1438-1449, 2015.
+6. *Peng Yang*, Ke Tang, Jose A. Lozano and Xianbin Cao. Path Planning for Single Unmanned Aerial Vehicle by Separately Evolving Waypoints. **IEEE Transactions on Robotics**, Vol. 31, Issue 5, pp. 1130-1146, 2015
+7. Ke Tang, *Peng Yang* and Xin Yao. Negatively Correlated Search. **IEEE Journal on Selected Areas in Communications**, Vol. 34, Issue 3, pp. 1-9, March 2016. 
 
 ### Referred Conference Publications
-1. *Peng Yang*, Guanzhou Lu, Ke Tang and Xin Yao. A Multi-Modal Optimization Approach to Single Path Planning for Unmanned Aerial Vehicle. In: **Proceedings of the 2016 IEEE Congress on Evolutionary Computation (CEC2016)**, pp.1735-1742, Vancouver, Canada; 07/2016, IEEE.
-2. *Peng Yang*, Ke Tang and Jose A. Lozano. Estimation of Distribution Algorithms based Unmanned Aerial Vehicle Path Planner Using a New Coordinate System. In: **Proceedings of the 2014 IEEE Congress on Evolutionary Computation (CEC2014)**, pp.1469-1476, Beijing, China; 07/2014, IEEE.
-3. *Peng Yang*, Ke Tang, Lingxi Li and Kai Qin. Evolutionary Robust Optimization with Multiple Solutions. In: **Proceedings of The 18th Asia Pacific Symposium on Intelligent and Evolutionary Systems**, Nov., 2015, Singapore; pp.611-625, Springer.
-4. Wenjing Hong, Guanzhou Lu, *Peng Yang*, Yong Wang and Ke Tang. A New Evolutionary Multi- objective Algorithm for Convex Hull Maximization. In: **Proceedings of the 2015 IEEE Congress on Evolutionary Computation (CEC2015)**, pp.931-938, Sendai, Japan; 05/2015, IEEE.  
+1. Yunwen Lei, *Peng Yang*, and Ke Tang. Optimal Stochastic and Online Learning with Individual Iterates. In: **Proceedings of Conference and Workshop on Neural Information Processing Systems (NeurIPS 2019)**, Vancouver, Canada; 12/2019.
+2. Er Zhuo, Yunjie Deng, Zhewei Su, *Peng Yang*, Bo Yuan, and Xin Yao. An Experimental Study of Large-scale Capacitated Vehicle Routing Problems. In: **Proceedings of the 2019 IEEE Congress on Evolutionary Computation (IEEE CEC 2019)**, Wellington, New Zealand; 06/2019.
+3. Dongbing Jiao, *Peng Yang*, Liqun Fu, Liangjun Ke, and Ke Tang. Optimal Energy-Delay Scheduling for Energy Harvesting WSNs via Negatively Correlated Search. In: **Proceedings of the 2019 International Conference on Communications (ICC 2019)**, Shanghai, China; 07/2019.
+4. Dongjun Qian, *Peng Yang*, and Ke Tang. A Fast Heuristic Path Computation Algorithm for Batch Bandwidth Constrained Routing Problem in SDN. In: **Proceedings of the 15th Pacific Rim International Conference on Artificial Intelligence （PRICAI2018）**，Nanjing, China; 08/2018, Springer. To appear.
+5. *Peng Yang*, Guanzhou Lu, Ke Tang and Xin Yao. A Multi-Modal Optimization Approach to Single Path Planning for Unmanned Aerial Vehicle. In: **Proceedings of the 2016 IEEE Congress on Evolutionary Computation (CEC2016)**, pp.1735-1742, Vancouver, Canada; 07/2016, IEEE.
+6. *Peng Yang*, Ke Tang and Jose A. Lozano. Estimation of Distribution Algorithms based Unmanned Aerial Vehicle Path Planner Using a New Coordinate System. In: **Proceedings of the 2014 IEEE Congress on Evolutionary Computation (CEC2014)**, pp.1469-1476, Beijing, China; 07/2014, IEEE.
+7. *Peng Yang*, Ke Tang, Lingxi Li and Kai Qin. Evolutionary Robust Optimization with Multiple Solutions. In: **Proceedings of The 18th Asia Pacific Symposium on Intelligent and Evolutionary Systems**, Nov., 2015, Singapore; pp.611-625, Springer.
+8. Wenjing Hong, Guanzhou Lu, *Peng Yang*, Yong Wang and Ke Tang. A New Evolutionary Multi- objective Algorithm for Convex Hull Maximization. In: **Proceedings of the 2015 IEEE Congress on Evolutionary Computation (CEC2015)**, pp.931-938, Sendai, Japan; 05/2015, IEEE.  
 
 ---
 
 ## Awards
 
+* Outstanding Doctoral Dissertation of CAAI (Nomination Award), 2018
 * Special Prize of Presidential Scholarship of Chinese Academy of Sciences, 2017
 * Excellent Graduate Student of Anhui Province, 2017
 * Excellent Graduate Student of University of Science and Technology of China, 2017
@@ -73,17 +79,35 @@ My research mainly focuses on Evolutionary Computation (EC) and Intelligent Logi
 
 ## Professonal Services
 
+**Special Session**
+* Co-chair of Special Session on "Evolutionary Optimization: Foundations and Its applications to Intelligent Data Analytics" at ICIC'18.
+
+## Invited Talks
+* "Large-scale Distributed Evolutionary Computational Engine", Huawei Technologies CO., LTD., Shenzhen, China; 09/2019.
+* "Large-scale Distributed Evolutionary Computation", the 6th Chinese Workshop on Evolutionary Computation and Learning (ECOLE'2019), Xiangtan, China; 05/2019.
+* "Turning High-dimensional Optimization into Computationally Expensive Optimization", the 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI'2018), Nanjing, China; 08/2018.
+
 **Journal Reviewer**
 * IEEE Transactions on Evolutionary Computation
 * IEEE Transactions on Industrial Electronics
+* IEEE Transactions on Emerging Topics in Computational Intelligence
 * Information Sciences
+* SCIENCE CHINA Information Sciences
+* IEEE Access
+* Applied Soft Computing
+* Frontiers of Computer Science
+* Computers & Operations Research
 * Memetic Computing
 * Natural Computing
 * Swarm and Evolutionary Computation
 * Journal of Systemics, Cybernetics, and Informatics (JSCI)
 
 **Conference PC member**
-* The International Joint Conferences on Artificial Intelligence (IJCAI’18)
+* The International Conference on Machine Learning (ICML'20)
+* The Association for the Advancement of Articial Intelligence (AAAI'19, AAAI'20)
+* The International Joint Conferences on Artificial Intelligence (IJCAI’18, IJCAI'19, IJCAI'20)
+* The IEEE Congress on Evolutionary Computation (IEEE CEC'19, CEC'20)
+* The International Conference on Simulated Evolution and Learning (SEAL'17)
 * The IEEE Symposium Series on Computational Intelligence (SSCI’16)
 * The World Multi-Conference on Systemics, Cybernetics And Informatics (WMSCI’15, WMSCI'18)
 
