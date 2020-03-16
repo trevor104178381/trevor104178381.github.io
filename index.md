@@ -82,7 +82,7 @@ My research mainly focuses on Distributed and Interactive Evolutionary Computati
 **Special Session**
 * Co-chair of Special Session on "Evolutionary Optimization: Foundations and Its applications to Intelligent Data Analytics" at ICIC'18.
 
-## Invited Talks
+**Invited Talks**
 * "Large-scale Distributed Evolutionary Computational Engine", Huawei Technologies CO., LTD., Shenzhen, China; 09/2019.
 * "Large-scale Distributed Evolutionary Computation", the 6th Chinese Workshop on Evolutionary Computation and Learning (ECOLE'2019), Xiangtan, China; 05/2019.
 * "Turning High-dimensional Optimization into Computationally Expensive Optimization", the 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI'2018), Nanjing, China; 08/2018.
