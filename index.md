@@ -104,7 +104,7 @@ My research mainly focuses on Distributed and Interactive Evolutionary Computati
 
 **Conference PC member**
 * The International Conference on Machine Learning (ICML'20)
-* The Association for the Advancement of Articial Intelligence (AAAI'19, AAAI'20)
+* The Association for the Advancement of Artificial Intelligence (AAAI'19, AAAI'20)
 * The International Joint Conferences on Artificial Intelligence (IJCAI’18, IJCAI'19, IJCAI'20)
 * The IEEE Congress on Evolutionary Computation (IEEE CEC'19, CEC'20)
 * The International Conference on Simulated Evolution and Learning (SEAL'17)
