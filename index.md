@@ -113,5 +113,21 @@ Application-driven Evolutionary Policy Optimization and Interactive Evolutionary
 * The IEEE Symposium Series on Computational Intelligence (SSCI’16)
 * The World Multi-Conference on Systemics, Cybernetics And Informatics (WMSCI’15, WMSCI'18)
 
+## Students
+### Master Students
+* **Jianqi Cao** (2020 - ).
+* **Lang Fu** (2020 - ).
+* **Luoming Zhang** (2020 - ).
+* **Shun Lu** (2020 - ).
+* **Ge Guo** (2020 - ).
+* **Lan Tang** (2020 - ).
+* **Muyao Zhong** (2018 - 2020, now pursuing Ph.D degree at SUSTech).
+* **Binjie Kang** (2018 - 2020, now working as an Engineer at Huawei).
+* **Di Hu** (2018 - 2020, now working as an Engineer at MI). 
+
+### Undergraduate Students
+* **Er Zhuo** (2016-2020, Excellent Graduate Student of DCSE of SUSTech, 1 EI-indexed paper, 1 invention patent, now pursing Master degree at University of California San Diego, USA). 
+* **Yunjie Deng** (2016-2020, Excellent Graduate Student of DCSE of SUSTech, 1 EI-indexed paper, 1 invention patent, now pursing Master degree at SUSTech). 
+* **Zhewei Su** (2016-2020, 1 EI-indexed paper, 1 invention patent, now pursing Master degree at Rice University, USA).
 ---
 The End
