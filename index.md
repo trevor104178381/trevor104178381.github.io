@@ -18,7 +18,7 @@ Office: Room 913, Nanshan ipark A7 building, Nanshan district, Shenzhen, China.
 
 ## Research Interest
 
-My research mainly focuses on application-driven Evolutionary Policy Optimization and Interactive Evolutionary Computation. 
+Application-driven Evolutionary Policy Optimization and Interactive Evolutionary Computation. 
 
 ---
 
