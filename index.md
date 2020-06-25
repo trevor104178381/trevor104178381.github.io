@@ -113,6 +113,8 @@ Application-driven Evolutionary Policy Optimization and Interactive Evolutionary
 * The IEEE Symposium Series on Computational Intelligence (SSCI’16)
 * The World Multi-Conference on Systemics, Cybernetics And Informatics (WMSCI’15, WMSCI'18)
 
+---
+
 ## Students
 ### Master Students
 * **Jianqi Cao** (2020 - ).
