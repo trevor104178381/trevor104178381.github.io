@@ -131,5 +131,6 @@ Application-driven Evolutionary Policy Optimization and Interactive Evolutionary
 * **Er Zhuo** (2016-2020, Excellent Graduate Student of DCSE of SUSTech, 1 EI-indexed paper, 1 invention patent, now pursing Master degree at University of California San Diego, USA). 
 * **Yunjie Deng** (2016-2020, Excellent Graduate Student of DCSE of SUSTech, 1 EI-indexed paper, 1 invention patent, now pursing Master degree at SUSTech). 
 * **Zhewei Su** (2016-2020, 1 EI-indexed paper, 1 invention patent, now pursing Master degree at Rice University, USA).
+
 ---
 The End
