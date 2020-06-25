@@ -11,7 +11,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Times New Roman" ;  //"Inconsolata"
     height: 100%;
 }
 a {
@@ -65,7 +65,7 @@ hr {
 /* Divs */
 
 .container {
-    max-width: $max-width;
+    max-width: 1400px;
     margin: auto;
 }
 .wrapper {
