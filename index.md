@@ -18,7 +18,7 @@ Office: Room 913, Nanshan ipark A7 building, Nanshan district, Shenzhen, China.
 
 ## Research Interest
 
-Application-driven Evolutionary Policy Optimization and Interactive Evolutionary Computation. 
+Evolutionary Policy Optimization, Interactive Evolutionary Computation, and Distributed Evolutionary Computation.
 
 ---
 
@@ -81,15 +81,15 @@ Application-driven Evolutionary Policy Optimization and Interactive Evolutionary
 
 ## Professonal Services
 
-**Special Session**
+### Special Session
 * Co-chair of Special Session on "Evolutionary Optimization: Foundations and Its applications to Intelligent Data Analytics" at ICIC'18.
 
-**Invited Talks**
+### Invited Talks
 * "Large-scale Distributed Evolutionary Computational Engine", Huawei Technologies CO., LTD., Shenzhen, China; 09/2019.
 * "Large-scale Distributed Evolutionary Computation", the 6th Chinese Workshop on Evolutionary Computation and Learning (ECOLE'2019), Xiangtan, China; 05/2019.
 * "Turning High-dimensional Optimization into Computationally Expensive Optimization", the 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI'2018), Nanjing, China; 08/2018.
 
-**Journal Reviewer**
+### Journal Reviewer
 * IEEE Transactions on Evolutionary Computation
 * IEEE Transactions on Industrial Electronics
 * IEEE Transactions on Emerging Topics in Computational Intelligence
@@ -104,7 +104,7 @@ Application-driven Evolutionary Policy Optimization and Interactive Evolutionary
 * Swarm and Evolutionary Computation
 * Journal of Systemics, Cybernetics, and Informatics (JSCI)
 
-**Conference PC member**
+### Conference PC member
 * The International Conference on Machine Learning (ICML'20)
 * The Association for the Advancement of Artificial Intelligence (AAAI'19, AAAI'20)
 * The International Joint Conferences on Artificial Intelligence (IJCAI’18, IJCAI'19, IJCAI'20)
