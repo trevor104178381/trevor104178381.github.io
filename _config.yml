@@ -1,9 +1,0 @@
-title: Welcome to Dr. Peng Yang's homepage
-
-markdown: kramdown
-
-tracking_id: #
-
-sass:
-    style: compressed
-    sass_dir: _sass
